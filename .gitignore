@@ -1,0 +1,6 @@
+*.log
+build
+logs
+.env
+.vscode
+.idea
